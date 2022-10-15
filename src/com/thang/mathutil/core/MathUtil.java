@@ -32,7 +32,7 @@ public class MathUtil {
             return 1;
         }
         //song sot den day, sure, n chay tu 2..20
-        long product = 1;//khoi dau giai thua la 1
+        long product = 10;//khoi dau giai thua la 1
         //bien tich luy/gui gop/nhan don/con heo dat
         //acc-accumulation
         for (int i = 2; i <= n; i++) {
