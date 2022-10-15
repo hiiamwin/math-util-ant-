@@ -16,6 +16,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("This message comes from main() method");
         System.out.println("This jar file is built base on ANT co-operating with JUnit");
+        System.out.println("More over, this message comes from a US_BUILT JAR FILE");
         tryTDDFirst();
     }
 
